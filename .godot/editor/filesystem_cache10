@@ -1,0 +1,37 @@
+78098b89c88a74ebe8c20117b8754620
+::res://::1792947506
+camera_3d.gd::GDScript::4630878246147836853::1792588707::0::1::::<>RefCounted<><>0<>0<><>::
+csg_box_3d_23.gd::GDScript::9046445334696221289::1792430601::0::1::::<>RefCounted<><>0<>0<><>::
+export_presets.cfg::TextFile::-1::1792947506::0::1::::<><><>0<>0<><>::
+icon.svg::CompressedTexture2D::6779312502902336920::1792426566::1792426582::1::::<><><>0<>0<>6fcf4f267c3aaf05ac989da93bb50f8f<>res://.godot/imported/icon.svg-218a8f2b3041327d8a5756f3a245f83b.ctex::
+index.apple-touch-icon.png::CompressedTexture2D::71757846537242039::1792946597::1792437098::1::::<><><>0<>0<>1f0d9080b86acb87197a603a5db96700<>res://.godot/imported/index.apple-touch-icon.png-8085a11cc297d91deb55511843765958.ctex::
+index.icon.png::CompressedTexture2D::1373033458335454352::1792946597::1792437097::1::::<><><>0<>0<>3976459b0b4ff3e2fa6623d2107a4ce4<>res://.godot/imported/index.icon.png-5665fad188e88d1e882500a4376bfe02.ctex::
+index.png::CompressedTexture2D::6602068362043849943::1792946597::1792437098::1::::<><><>0<>0<>8507be7e0763e42070907c4144564c17<>res://.godot/imported/index.png-5122033cac747157decad52589e2295c.ctex::
+node_3d.tscn::PackedScene::3312924081255003306::1792429680::0::1::::<><><>0<>0<><>::
+proto_controller.gd::GDScript::3492432848565000725::1792941585::0::1::::<>CharacterBody3D<><>0<>0<><>::
+sceeene.glb::PackedScene::2960286573947411401::1792428984::1792428990::1::::<><><>0<>0<>0d1512a2f362775bd4af56e21517761a<>res://.godot/imported/sceeene.glb-bbdfdcb4a9d2c91c6be59b1c1b466578.scn::uid://b71nj3w32vo5y::::res://sceeene_bigflower.png<>uid://bg5smap5rpie2::::res://sceeene_book.png<>uid://xt66tyspv0wq::::res://sceeene_cofee.png<>uid://cdnd7ml80k25q::::res://sceeene_flower in a pot.png<>uid://dl5nhavro5485::::res://sceeene_red flower.png
+sceeene.tscn::PackedScene::633530889011921799::1792945319::0::1::::<><><>0<>0<><>::uid://bif8qtntt5yi0::::res://sceeene.glb<>uid://bp004gy5v0auv::::res://proto_controller.gd<>uid://bigqs6nf5f8rk::::res://brackeys-proto-controller-main/proto_controller/norbert-kowalczyk-hDSydnSLPAQ-unsplash.jpg
+sceeene_bigflower.png::CompressedTexture2D::4686944400715416356::1792428985::1792428991::1::::<><><>0<>0<>f1902aab52f0ceeb00f688f275e17609<>res://.godot/imported/sceeene_bigflower.png-1b36dbdb8d61486bd17954f9f0e6da3d.s3tc.ctex::
+sceeene_book.png::CompressedTexture2D::2870599438098189387::1792428986::1792428991::1::::<><><>0<>0<>0ea84405e3153b3ab5e9d7e65224b42c<>res://.godot/imported/sceeene_book.png-82a4a10dfa8f795db5b58604cc17839f.s3tc.ctex::
+sceeene_cofee.png::CompressedTexture2D::1655505203246389176::1792428987::1792428991::1::::<><><>0<>0<>82da1c7474fb77542be2482d3b85975f<>res://.godot/imported/sceeene_cofee.png-185582331984aaa448573eac828682c6.s3tc.ctex::
+sceeene_flower in a pot.png::CompressedTexture2D::5010484754292585400::1792428988::1792428991::1::::<><><>0<>0<>9945d1f43689da2b2ad5550fd66f8c28<>res://.godot/imported/sceeene_flower in a pot.png-ee887dd1e0661aacf9fae3e21add4473.s3tc.ctex::
+sceeene_red flower.png::CompressedTexture2D::7994072518415968420::1792428988::1792428991::1::::<><><>0<>0<>40449b26b09733e51f3fe187a25d5bc8<>res://.godot/imported/sceeene_red flower.png-f37c1f1d8f6e8f29af56d7b330e6a377.s3tc.ctex::
+scne.glb::PackedScene::298965610351521173::1792428868::1792428872::1::::<><><>0<>0<>c5b9cbd2608912142d31f4214f0666d1<>res://.godot/imported/scne.glb-1db90b62b0d84bffb4ad6d83cf0c4399.scn::uid://bcx5v0fj4fyvb::::res://scne_Wood066_1K-PNG_Color.png<>uid://qmmv1wcjbw6y::::res://scne_Grass001_1K-PNG_Color.png<>uid://bmwb44ihra4b8::::res://scne_Fabric085_1K-PNG_Color.png
+scne_Fabric085_1K-PNG_Color.png::CompressedTexture2D::3274217158831201959::1792428870::1792428873::1::::<><><>0<>0<>4678ce2904deb45347b1a919b61b9d28<>res://.godot/imported/scne_Fabric085_1K-PNG_Color.png-851ddcb03a24b688c576ea8771a762dc.s3tc.ctex::
+scne_Grass001_1K-PNG_Color.png::CompressedTexture2D::1148561536538200422::1792428869::1792428873::1::::<><><>0<>0<>7387ba0f03d69bfced1d1b4c19a16c46<>res://.godot/imported/scne_Grass001_1K-PNG_Color.png-66337285c741ecbcdbc66754cea0c0c3.s3tc.ctex::
+scne_Wood066_1K-PNG_Color.png::CompressedTexture2D::2576139392023210627::1792428868::1792428873::1::::<><><>0<>0<>ae5e254a66cfe2f769e0a5472d657601<>res://.godot/imported/scne_Wood066_1K-PNG_Color.png-5d8184a3827f60b6aac74b737d627724.s3tc.ctex::
+::res://brackeys-proto-controller-main/::1792602835
+proto_controller.gd::GDScript::8539158930218320018::1792602835::0::1::::<>RefCounted<><>0<>0<><>::
+README.md::TextFile::-1::1792430305::0::1::::<><><>0<>0<><>::
+::res://brackeys-proto-controller-main/proto_controller/::1792774900
+norbert-kowalczyk-hDSydnSLPAQ-unsplash.jpg::CompressedTexture2D::2961322964070084664::1792774881::1792774900::1::::<><><>0<>0<>f42ef53e6953ba6b9fe87ae37781bd16<>res://.godot/imported/norbert-kowalczyk-hDSydnSLPAQ-unsplash.jpg-48f200af8ce5be4a784f56f6ea3dcd93.s3tc.ctex::
+proto_controller.gd::GDScript::4499481005174103022::1792602145::0::1::::<>CharacterBody3D<><>0<>0<><>::
+proto_controller.tscn::PackedScene::3606790935899792352::1792432211::0::1::::<><><>0<>0<><>::
+::res://brackeys-proto-controller-main/proto_controller/proto_controller/::1792431511
+proto_controller.gd::GDScript::5391742089031954410::1792431511::0::1::::<>CharacterBody3D<><>0<>0<><>::
+proto_controller.tscn::PackedScene::3717544648773412845::1792431511::0::1::::<><><>0<>0<><>::res://addons/proto_controller/proto_controller.gd
+::res://GameWbBuild/::1792947506
+index.apple-touch-icon.png::CompressedTexture2D::8083374393340334236::1792947506::1792947668::1::::<><><>0<>0<>c622eaa1041630cb18b4e45ed01772e3<>res://.godot/imported/index.apple-touch-icon.png-d8ffdb8181d63dd9ec54a5e5a9373d47.ctex::
+index.icon.png::CompressedTexture2D::8182636019182660684::1792947506::1792947668::1::::<><><>0<>0<>f810d6807f8607286ce69c2c86b732bc<>res://.godot/imported/index.icon.png-20f5a5714d7fc33fd1245f479db26371.ctex::
+index.png::CompressedTexture2D::1232287499748780820::1792947506::1792947668::1::::<><><>0<>0<>309c0c405d94ebac45dacd3e588a88d5<>res://.godot/imported/index.png-575e769d34d0ccbbf0b9cf44a76b0331.ctex::
+::res://index/::1792437212
