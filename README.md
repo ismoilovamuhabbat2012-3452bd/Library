@@ -9,8 +9,8 @@ Loook at that!
 I have done a library game where you can read your book while enjoying the black hole. DON'T WORRY, IT DOESN'T WORk
 <img width="1136" height="653" alt="{3B0C9B4C-B794-4598-A78A-7EBD10F8AAA9}" src="https://github.com/user-attachments/assets/44ad1dd9-0d2b-4109-88f3-e4de3fb033b0" />
 
-##How to run?##
-You can press W, A, S, D and after going to upstairs which is a balcony you can fly freely wherever you can!!
+##How to play?##
+You can press W, A, S, D to move around on first floor and after going to upstairs which is a balcony you can fly freely wherever you can!!
 <img width="1177" height="697" alt="{724EEE0E-624D-4A8F-90C8-3CD56F757FAE}" src="https://github.com/user-attachments/assets/1b7e0eaf-a8a1-4ab7-acd6-4809e161dc0e" />
  ---
  Hell, WHY EVERYTHING??
